@@ -1,0 +1,158 @@
+/*CSS reset settings here*/
+*{
+ 	margin: 0px;
+ 	padding: 0px;
+}
+
+#wrapper{
+ 	width: 970px;
+ 	display: inline-block;
+}
+
+#header{
+	display: inline-block;
+}
+
+#left-header{
+	display: inline-block;
+}
+
+#right-header{
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 232px;
+	vertical-align: top;
+	font-size: 19px;
+	font-weight: bold;
+}
+
+#bottom-header{
+	display: block;
+	border-top: 1.8px solid gray;
+	height: 15px;
+}
+
+#bottom-header ul li {
+	display: inline;
+	list-style-image: none;
+	padding: 0px 10px;
+	margin-left: -10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	border-right: 1px solid gray;
+}
+
+#bottom-header a {
+	color: rgb(74,75,79);
+	text-decoration: none;
+	margin-left: 4px;
+}
+
+#mid{
+	background-color: #2A3540;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+#mid img{
+	vertical-align: top;	
+	border: 3px solid white;
+}
+
+#main-info{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 10px;
+	width: 493px;
+	height: 261px;	
+	background-color: rgb(75,75,73);
+	font-family: sans-serif;
+	font-size: 13px;
+}
+
+h4{
+	font-family: sans-serif;
+	font-size: 16px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+#main-info p{
+	font-family: sans-serif;
+	font-size: 13px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+#second_branch{
+	height: 500px;
+	background-color: #2A3540;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.logo{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 5px;
+	margin-left: 35px;
+}
+
+.middle-text{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 500px;
+	margin-top: 10px;
+	margin-left: 16px;
+	font-size: 10px;
+	color: rgb(121,120,68);
+}
+
+#bot{
+	display: inline-block;
+	vertical-align: top;
+	width: 950px;
+	height: 300px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.box{
+	display: inline-block;
+	vertical-align: top;
+	width: 222px;
+	height:291px;
+	background-color: #FFFFFF;
+}
+
+.box p{
+	font-family: sans-serif;
+	font-size: 13px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.section{
+	background-color: rgb(249,199,20);
+	color: black;
+	padding: 5px 5px;
+	margin: 0px 0px;
+	font-size: 12px;
+}
+
+.arrow{
+	margin-left: 121px; 
+	margin-top: 40px;
+}
+
+.arrow2{
+	margin-left: 121px; 
+	margin-top: 41px;
+
+}
+
+.arrow3{
+	margin-left: 121px; 
+	margin-top: 28px;
+
+}
